@@ -22,6 +22,7 @@ Desenvolver modelos de machine learning capazes de:
 ### Dataset
 
 - Dataset público disponível no Kaggle (link no início deste README)
+- 555.719 linhas
 - Cada linha representa uma transação financeira
 
 ### Variável Alvo
